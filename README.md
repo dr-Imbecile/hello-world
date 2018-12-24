@@ -1,2 +1,5 @@
 # hello-world
-github introduction repository
+
+hi,
+just started with programming.
+That`s why I´m here.
